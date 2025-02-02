@@ -17,10 +17,10 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Data Science Projects
--[Data Analysis and Plotting Examples](https://github.com/semajrd1/data_analysis_and_plotting_examples)
+- [Data Analysis and Plotting Examples](https://github.com/semajrd1/data_analysis_and_plotting_examples)
 --test 2
--testing now
---testing again
+- testing now
+-- testing again
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
