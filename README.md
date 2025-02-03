@@ -6,7 +6,7 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 
 <figure style="text-align: center;">
   <img src="assets/isabelle_baptism_homepage.png" alt="Isabelle Baptism" width="440" height="360">
-  <figcaption>Figure 1: Screenshot of the Homepage.</figcaption>
+  <figcaption>Figure 1: Screenshot of the Isabelle's Baptism Web App Homepage.</figcaption>
 </figure>
 
 ### Key Features
