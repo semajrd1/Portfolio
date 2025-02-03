@@ -6,7 +6,7 @@ The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** de
 
 <figure style="text-align: center;">
   <iframe width="570" height="424" 
-    src="[https://www.youtube.com/embed/7SG_m_pFNII?autoplay=1&mute=1](https://www.youtube.com/watch?v=0f-DgnXBncE)" 
+    src="https://www.youtube.com/watch?v=0f-DgnXBncE?autoplay=1&mute=1" 
     frameborder="0" allowfullscreen>
   </iframe>
   <figcaption>Figure 1: Video Demo of AMRC Quick DFOS Strain Analyser.</figcaption>
