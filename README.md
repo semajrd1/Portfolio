@@ -8,6 +8,8 @@
 - **Engineering & Simulation Software**: Abaqus, Ansys Workbench, Fusion 360
 - **Data Visualization**: Matplotlib, Plotly, Seaborn, Power BI
 
+---
+
 ## Conferences & Presentations
 - **Distributed Fibre Optic Sensing for VARTM Composite Manufacturing** – *FPCM 2025, Abu Dhabi, UAE.*
 - **Flow Front Monitoring in Pneumatically Spliced Woven Fabrics** – *FPCM 2025, Abu Dhabi, UAE.*
