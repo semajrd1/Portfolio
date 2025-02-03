@@ -4,7 +4,7 @@
 
 This project is a **Flask-based web application** designed to manage guest RSVPs and provide event details for Isabelle’s baptism. The system is built using a **PostgreSQL relational database**, a **responsive front-end**, and a **secure API-driven backend**. It includes a structured MVC pattern and is designed to be **scalable and easily deployable**.
 
-<figure>
+<figure style="text-align: center;">
   <img src="assets/isabelle_baptism_homepage.png" alt="Isabelle Baptism" width="440" height="360">
   <figcaption>Figure 1: Screenshot of the Homepage.</figcaption>
 </figure>
