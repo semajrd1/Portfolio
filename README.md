@@ -1,6 +1,6 @@
-# Portfolio
+# Portfolio Examples
 
-<h2>Example Project 1: <span style="font-weight: normal;">Responsive Flask Web Application with SQL Database (Isabelle's Baptism)</span></h2>
+<h2>Project 1: <span style="font-weight: normal;">Responsive Flask Web Application with SQL Database (Isabelle's Baptism)</span></h2>
 
 This project is a **Flask-based web application** designed to manage guest RSVPs and provide event details for Isabelle’s baptism. The system is built using a **PostgreSQL relational database**, a **responsive front-end**, and a **secure API-driven backend**. It includes a structured MVC pattern and is designed to be **scalable and easily deployable**.
 
