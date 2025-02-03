@@ -1,6 +1,6 @@
 # Example Projects
 
-<h2>1) <span style="font-weight: normal;">AMRC Quick DFOS Strain AnalyserS</span></h2>
+<h2>1) <span style="font-weight: normal;">AMRC Quick DFOS Strain Analyser</span></h2>
 
 <h2>2) <span style="font-weight: normal;">Responsive Flask Web Application with SQL Database (Isabelle's Baptism)</span></h2>
 
