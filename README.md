@@ -1,4 +1,4 @@
-# Portfolio Examples
+# Example Projects
 
 <h2>1) <span style="font-weight: normal;">Responsive Flask Web Application with SQL Database (Isabelle's Baptism)</span></h2>
 
