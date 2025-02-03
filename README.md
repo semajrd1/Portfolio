@@ -63,7 +63,7 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 This project is a **Flask-based web application** designed to manage guest RSVPs and provide event details for Isabelle’s baptism. The system is built using a **PostgreSQL relational database**, a **responsive front-end**, and a **secure API-driven backend**. It includes a structured MVC pattern and is designed to be **scalable and easily deployable**.
 
 <figure style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/7SG_m_pFNII" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="424" src="https://www.youtube.com/embed/7SG_m_pFNII" frameborder="0" allowfullscreen></iframe>
   <figcaption>Figure 1: Video Demo of Isabelle's Baptism Web App.</figcaption>
 </figure>
 
