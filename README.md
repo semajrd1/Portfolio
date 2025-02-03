@@ -2,7 +2,7 @@
 
 ## Example Project 1: Responsive Flask Web Application with SQL Database (Isabelle's Baptism)
 
-<img src="assets/isabelle_baptism_homepage.png" alt="Isabelle Baptism" width="640" height="360">
+<img src="assets/isabelle_baptism_homepage.png" alt="Isabelle Baptism" width="440" height="360">
 
 ---
 
