@@ -23,7 +23,7 @@
 - **Sustainability in Construction: Waste Plastics into High-Value Composites** – *Polymers 2024, Athens, Greece.*
 - **Adhesive Joint Design: Composite Layup Tailoring for Stress Optimisation** – *FiBreMod Conf., Dec 2019, Leuven, Belgium.*
 
-**************************************************
+####################################################################################################**
 
 ## Publications
 1. **Fracture-Mechanical Properties of Tailored Epoxy Nanocomposites at Elevated Temperatures** (2024) – *Journal of Applied Polymer Science*.
