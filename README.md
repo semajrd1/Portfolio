@@ -6,7 +6,7 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 
 <img src="assets/isabelle_baptism_homepage.png" alt="Isabelle Baptism" width="440" height="360">
 
-## Key Features
+### Key Features
 - **Event Information System** – Displays event details with dynamic content rendering through Jinja2 templates.
 - **Guest RSVP Management** – Enables user form submission with real-time validation and database storage.
 - **Flask Backend with SQLAlchemy ORM** – Manages data persistence with PostgreSQL, with SQLite fallback for local testing.
@@ -14,13 +14,13 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 - **RESTful API Integration** – Supports data exchange and future expansion into mobile/web applications.
 - **Responsive Frontend** – Uses CSS Grid and SASS for layout management and optimized UI across devices.
 
-## Technology Stack
+### Technology Stack
 - **Frontend:** HTML, CSS (SASS), JavaScript
 - **Backend:** Flask (Python), Jinja2, SQLAlchemy ORM
 - **Database:** PostgreSQL (primary), SQLite (fallback for local development)
 - **Security Measures:** Environment variable configurations, database migration compatibility, and input validation.
 
-### Project Structure
+#### Project Structure
 ```
 ├── instance/          # Flask instance folder (e.g., database, sensitive data)
 ├── static/            # CSS, JavaScript, and images
