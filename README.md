@@ -1,6 +1,6 @@
 # Example Projects
 
-<h2>1) <span style="font-weight: normal;">AMRC Quick DFOS Strain Analyser (Ttkbootstrap GUI and Python Data Processing)</span></h2>
+<h2>1) <span style="font-weight: normal;">AMRC Quick DFOS Strain Analyser (Ttkbootstrap GUI and Python Data Processing) [Private Repo]</span></h2>
 
 The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** designed to process, analyze, and visualize **Distributed Fibre Optic Sensing (DFOS) strain data**. The system efficiently handles large datasets using **chunk-based data processing**, integrates **geometric transformations**, and provides an **interactive visualization interface**.
 
@@ -66,7 +66,7 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 - Alternatively, execute the generated EXE file from `dist/`.
 - The GUI initializes and allows real-time strain data visualization.
 
-<h2>2) <span style="font-weight: normal;">Responsive Flask Web Application with SQL Database (Isabelle's Baptism)</span></h2>
+<h2>2) <span style="font-weight: normal;">Responsive Flask Web Application with SQL Database (Isabelle's Baptism) [Public Repo]</span></h2>
 
 This project is a **Flask-based web application** designed to manage guest RSVPs and provide event details for Isabelle’s baptism. The system is built using a **PostgreSQL relational database**, a **responsive front-end**, and a **secure API-driven backend**. It includes a structured MVC pattern and is designed to be **scalable and easily deployable**.
 
