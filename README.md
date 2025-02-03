@@ -1,4 +1,4 @@
-# Online Portfolio
+# Github Portfolio
 
 - **Programming Languages**: Python, SQL, MATLAB, C, JavaScript, LaTeX
 - **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn, YOLO, K-means clustering, Deep Learning
