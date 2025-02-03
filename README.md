@@ -20,7 +20,7 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 - **Database:** PostgreSQL (primary), SQLite (fallback for local development)
 - **Security Measures:** Environment variable configurations, database migration compatibility, and input validation.
 
-#### Project Structure
+### Project Structure
 ```
 ├── instance/          # Flask instance folder (e.g., database, sensitive data)
 ├── static/            # CSS, JavaScript, and images
