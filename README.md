@@ -2,18 +2,16 @@
 
 ## Example Project 1: Responsive Flask Web Application with SQL Database (Isabelle's Baptism)
 
+A Flask-based web application for Isabelle's baptism event, featuring RSVP functionality, dynamic dropdowns, and a mobile-friendly design.
 <img src="assets/isabelle_baptism_homepage.png" alt="Isabelle Baptism" width="440" height="360">
 
-## Overview
-A Flask-based web application for Isabelle's baptism event, featuring RSVP functionality, dynamic dropdowns, and a mobile-friendly design.
-
-## Features
+### Features
 - Event details page
 - RSVP registration system
 - Responsive design with CSS Grid & SASS
 - Flask-powered backend with PostgreSQL
 
-## Project Structure
+### Project Structure
 ```
 ├── instance/          # Flask instance folder (e.g., database, sensitive data)
 ├── static/            # CSS, JavaScript, and images
