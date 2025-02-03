@@ -72,7 +72,7 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 
 <figure style="text-align: center;">
   <iframe width="420" height="324" 
-    src="https://www.youtube.com/embed/7SG_m_pFNII?autoplay=1&mute=1" 
+    src="https://www.youtube.com/embed/7SG_m_pFNII?mute=1" 
     frameborder="0" allowfullscreen>
   </iframe>
   <figcaption>Figure 1: Video Demo of Isabelle's Baptism Web App.</figcaption>
