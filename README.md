@@ -1,4 +1,4 @@
-# Data Scientist
+# Simulation and Data Analytics for Advanced Manufacturing
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
