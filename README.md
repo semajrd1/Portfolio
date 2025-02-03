@@ -5,7 +5,7 @@
 The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** designed to process, analyze, and visualize **Distributed Fibre Optic Sensing (DFOS) strain data**. The system efficiently handles large datasets using **chunk-based data processing**, integrates **geometric transformations**, and provides an **interactive visualization interface**.
 
 <figure style="text-align: center;">
-  <iframe width="470" height="424" 
+  <iframe width="420" height="424" 
     src="https://www.youtube.com/embed/0f-DgnXBncE?autoplay=1&mute=1" 
     frameborder="0" allowfullscreen>
   </iframe>
@@ -71,7 +71,7 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 This project is a **Flask-based web application** designed to manage guest RSVPs and provide event details for Isabelle’s baptism. The system is built using a **PostgreSQL relational database**, a **responsive front-end**, and a **secure API-driven backend**. It includes a structured MVC pattern and is designed to be **scalable and easily deployable**.
 
 <figure style="text-align: center;">
-  <iframe width="470" height="424" 
+  <iframe width="420" height="424" 
     src="https://www.youtube.com/embed/7SG_m_pFNII?autoplay=1&mute=1" 
     frameborder="0" allowfullscreen>
   </iframe>
