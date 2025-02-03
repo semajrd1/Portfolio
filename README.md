@@ -1,4 +1,4 @@
-# Github Portfolio
+# Portfolio
 
 ## Technical Competencies
 
