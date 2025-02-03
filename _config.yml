@@ -4,12 +4,3 @@ description: "Technical Lead | Data Analytics & Simulation | Composite Manufactu
 logo: /assets/JD_photo.jpg
 show_downloads: true
 theme: jekyll-theme-minimal
-
-bio: |
-  **PhD in Mechanical Engineering**  
-  **MEng in Mechanical Engineering**  
-  Technical Lead at AMRC (University of Sheffield), specializing in **data analytics, machine learning, and composite materials manufacturing**.  
-  Experienced in **Python, MATLAB, simulation, and optimization algorithms**.
-
-github:
-  is_project_page: false
