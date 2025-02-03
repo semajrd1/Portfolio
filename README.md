@@ -1,6 +1,5 @@
-# Simulation and Data Analytics for Advanced Manufacturing
+# Online Portfolio
 
-## Technical Skills:
 - **Programming Languages**: Python, SQL, MATLAB, C, JavaScript, LaTeX
 - **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn, YOLO, K-means clustering, Deep Learning
 - **Cloud & Databases**: AWS (Lambda, S3, DynamoDB, EC2), Snowflake, PostgreSQL, MySQL
