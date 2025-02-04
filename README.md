@@ -66,6 +66,26 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 - Alternatively, execute the generated EXE file from `dist/`.
 - The GUI initializes and allows real-time strain data visualization.
 
+# Abaqus Python Script for Composite Strap Modeling
+This project is an **Abaqus Python script** that automates the **Finite Element (FE) modeling** of composite straps with **pin-loaded connections**. It defines geometry, meshing, material properties, boundary conditions, and contact interactions, allowing for **efficient simulation setup** and execution in Abaqus CAE.
+
+The script includes **cohesive zone modeling (CZM)** for analyzing **delamination and failure mechanisms**, making it ideal for **composite structure research and engineering applications**.
+
+## Features
+- 📏 **Parametric Geometry Creation** – Define **strap and pin dimensions** in the script for custom models.
+- 🧪 **Advanced Material Properties** – Supports **orthotropic composites** and **isotropic metallic materials**.
+- 💛 **Cohesive Zone Modeling (CZM)** – Enables **delamination and failure predictions** in laminated composites.
+- 🔍 **Mesh Generation & Refinement** – Uses **adaptive meshing** with fine **curved-edge refinements**.
+- 🎯 **Automated Boundary Conditions & Loads** – Applies **symmetry constraints** and **displacement-driven loading**.
+- 🫏 **Contact & Interaction Definition** – Includes **tie constraints, cohesive contact, and frictional interactions**.
+- ⚡ **Batch Job Submission** – Runs simulations in **Abaqus/CAE** without manual intervention.
+
+## Installation & Requirements  
+### **Software Requirements**
+- **Abaqus CAE (2020 or later)**
+- **Python (compatible with Abaqus scripting, typically Python 2.7 or 3.6)**
+- **NumPy & Matplotlib** (for optional post-processing)
+
 <h2>2) <span style="font-weight: normal;">Responsive Flask Web Application with SQL Database (Isabelle's Baptism) [Public Repo]</span></h2>
 
 This project is a **Flask-based web application** designed to manage guest RSVPs and provide event details for Isabelle’s baptism. The system is built using a **PostgreSQL relational database**, a **responsive front-end**, and a **secure API-driven backend**. It includes a structured MVC pattern and is designed to be **scalable and easily deployable**.
