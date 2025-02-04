@@ -2,6 +2,28 @@
 
 <h2>1) <span style="font-weight: normal;">AMRC Quick DFOS Strain Analyser (Ttkbootstrap GUI and Python Data Processing) [Private Repo]</span></h2>
 
+# Abaqus Python Script for Composite Strap Modeling
+
+## Overview
+This project is an **Abaqus Python script** that automates the **Finite Element (FE) modeling** of composite straps with **pin-loaded connections**. It defines geometry, meshing, material properties, boundary conditions, and contact interactions, allowing for **efficient simulation setup** and execution in Abaqus CAE.
+
+The script includes **cohesive zone modeling (CZM)** for analyzing **delamination and failure mechanisms**, making it ideal for **composite structure research and engineering applications**.
+
+## Features
+- 📏 **Parametric Geometry Creation** – Define **strap and pin dimensions** in the script for custom models.
+- 🧪 **Advanced Material Properties** – Supports **orthotropic composites** and **isotropic metallic materials**.
+- 💛 **Cohesive Zone Modeling (CZM)** – Enables **delamination and failure predictions** in laminated composites.
+- 🔍 **Mesh Generation & Refinement** – Uses **adaptive meshing** with fine **curved-edge refinements**.
+- 🎯 **Automated Boundary Conditions & Loads** – Applies **symmetry constraints** and **displacement-driven loading**.
+- 🫏 **Contact & Interaction Definition** – Includes **tie constraints, cohesive contact, and frictional interactions**.
+- ⚡ **Batch Job Submission** – Runs simulations in **Abaqus/CAE** without manual intervention.
+
+## Installation & Requirements  
+### **Software Requirements**
+- **Abaqus CAE (2020 or later)**
+- **Python (compatible with Abaqus scripting, typically Python 2.7 or 3.6)**
+- **NumPy & Matplotlib** (for optional post-processing)
+
 The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** designed to process, analyze, and visualize **Distributed Fibre Optic Sensing (DFOS) strain data**. The system efficiently handles large datasets using **chunk-based data processing**, integrates **geometric transformations**, and provides an **interactive visualization interface**.
 
 <figure style="text-align: center;">
