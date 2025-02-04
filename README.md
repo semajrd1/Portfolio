@@ -56,7 +56,7 @@
 │   ├── strain_processing.py     # Extracts, resamples, and interpolates strain data
 │   ├── geometry_processing.py   # Reads and aligns DOF geometry with strain measurements
 ├── gui/                         # Graphical user interface components
-│   ├── gui.py                   # Tkinter-based visualization interface
+│   ├── gui.py                   # Tkinter-based visualisation interface
 ├── utils/                       # Logging and file handling utilities
 │   ├── file_helpers.py          # Handles file operations
 │   ├── logging_helpers.py       # Manages structured logging
