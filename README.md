@@ -15,6 +15,7 @@ The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** de
 </figure>
 
 <p>&nbsp;</p>
+
 ### Key Features
 - **Efficient Data Handling** – Optimized for large JSON-based DFOS strain datasets using chunk-based processing.
 - **Strain Data Processing** – Extracts, resamples, and interpolates strain data for enhanced accuracy.
@@ -23,6 +24,7 @@ The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** de
 - **Performance Optimization** – Implements memory management techniques including garbage collection and process monitoring.
 - **Logging & Debugging Support** – Uses structured logging for error tracking and performance analysis.
 
+<p>&nbsp;</p>
 
 ### Technology Stack
 
@@ -37,6 +39,7 @@ The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** de
 | **Logging and Debugging**        | Python’s `logging` module, `traceback`            |
 | **File Handling**                | OS, shutil, tempfile                              |
 
+<p>&nbsp;</p>
 
 ### Core Processing Workflow
 1. **Data Ingestion**: Reads DFOS strain data in chunks to minimize memory footprint.
@@ -45,6 +48,7 @@ The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** de
 4. **Visualization**: Displays real-time strain variations via the Tkinter-based GUI.
 5. **Performance Enhancements**: Implements structured logging, garbage collection, and parallel execution.
 
+<p>&nbsp;</p>
 
 ### Project Structure
 ```
@@ -60,6 +64,7 @@ The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** de
 ├── requirements.txt             # Dependencies
 ```
 
+<p>&nbsp;</p>
 
 ### Building the Executable
 This project can be converted into a standalone **Windows EXE** using **PyInstaller**:
@@ -71,6 +76,7 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 - The `--windowed` flag ensures the GUI runs without a terminal.
 - The output EXE will be found in the `dist/` folder.
 
+<p>&nbsp;</p>
 
 ### Execution & Usage
 - **Run the application:** `python main.py`
