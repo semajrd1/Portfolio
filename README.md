@@ -68,7 +68,7 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 
 <!-- ========================================================================================= -->
 
-<h2>2) <span style="font-weight: normal;">Abaqus Python Script for Composite Strap Modeling</span></h2>
+<h2>2) <span style="font-weight: normal;">Python Scripting for Composite Strap Modelling in Abaqus</span></h2>
 
 This project is an **Abaqus Python script** that automates the **Finite Element (FE) modeling** of composite straps with **pin-loaded connections**. It defines geometry, meshing, material properties, boundary conditions, and contact interactions, allowing for **efficient simulation setup** and execution in Abaqus CAE.
 
