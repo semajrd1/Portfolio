@@ -92,13 +92,13 @@ This project is an Abaqus Python script that automates the Finite Element (FE) m
 <p>&nbsp;</p>
 
 ### Features
-- **Parametric Geometry Creation** – Define **strap and pin dimensions** in the script for custom models.
-- **Advanced Material Properties** – Supports **orthotropic composites** and **isotropic metallic materials**.
-- **Cohesive Zone Modeling (CZM)** – Enables **delamination and failure predictions** in laminated composites.
-- **Mesh Generation & Refinement** – Uses **adaptive meshing** with fine **curved-edge refinements**.
-- **Automated Boundary Conditions & Loads** – Applies **symmetry constraints** and **displacement-driven loading**.
-- **Contact & Interaction Definition** – Includes **tie constraints, cohesive contact, and frictional interactions**.
-- **Batch Job Submission** – Runs simulations in **Abaqus/CAE** without manual intervention.
+- **Parametric Geometry Creation** – Define strap and pin dimensions in the script for custom models.
+- **Advanced Material Properties** – Supports orthotropic composites and isotropic metallic materials.
+- **Cohesive Zone Modeling (CZM)** – Enables delamination and failure predictions in laminated composites.
+- **Mesh Generation & Refinement** – Uses adaptive meshing with fine curved-edge refinements.
+- **Automated Boundary Conditions & Loads** – Applies symmetry constraints and displacement-driven loading.
+- **Contact & Interaction Definition** – Includes tie constraints, cohesive contact, and frictional interactions.
+- **Batch Job Submission** – Runs simulations in Abaqus/CAE without manual intervention.
 
 <p>&nbsp;</p>
 
