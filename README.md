@@ -1,9 +1,9 @@
 # Example Projects
 
 
-## 1) AMRC Quick DFOS Strain Analyser (Ttkbootstrap GUI and Python-Based Data Processing) [Private Repo]
+## 1) Quick DFOS Strain Analyser (Ttkbootstrap GUI and Python-Based Data Processing) [Private Repo]
 
-The AMRC Quick DFOS Strain Analyser is a Python-based GUI application designed to process, analyze, and visualize Distributed Fibre Optic Sensing (DFOS) strain data. The system efficiently handles large datasets using chunk-based data processing, integrates geometric transformations, and provides an interactive visualization interface.
+The Quick DFOS Strain Analyser is a Python-based GUI application designed to process, analyze, and visualize Distributed Fibre Optic Sensing (DFOS) strain data. The system efficiently handles large datasets using chunk-based data processing, integrates geometric transformations, and provides an interactive visualization interface.
 
 <figure style="text-align: center;">
   <iframe width="340" height="280"
