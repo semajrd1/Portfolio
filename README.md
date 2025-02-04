@@ -67,7 +67,7 @@
 <p>&nbsp;</p>
 
 ### Building the Executable
-This project can be converted into a standalone **Windows EXE** using **PyInstaller**:
+This project can be converted into a executable using PyInstaller:
 ```sh
 pip install pyinstaller
 pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
