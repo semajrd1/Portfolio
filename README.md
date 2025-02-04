@@ -1,6 +1,6 @@
 # Example Projects
 
-<h2>1) <span style="font-weight: normal;">AMRC Quick DFOS Strain Analyser (Ttkbootstrap GUI and Python Data Processing) [Private Repo]</span></h2>
+# 1) AMRC Quick DFOS Strain Analyser (Ttkbootstrap GUI and Python Data Processing) [Private Repo]
 
 The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** designed to process, analyze, and visualize **Distributed Fibre Optic Sensing (DFOS) strain data**. The system efficiently handles large datasets using **chunk-based data processing**, integrates **geometric transformations**, and provides an **interactive visualization interface**.
 
@@ -68,7 +68,7 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 
 <!-- ========================================================================================= -->
 
-<h2>2) <span style="font-weight: normal;">Python Scripting for Composite Strap Modelling in Abaqus [Public Repo]</span></h2>
+# 2) Python Scripting for Composite Strap Modelling in Abaqus [Public Repo]
 
 This project is an **Abaqus Python script** that automates the **Finite Element (FE) modeling** of composite straps with **pin-loaded connections**. It defines geometry, meshing, material properties, boundary conditions, and contact interactions, allowing for **efficient simulation setup** and execution in Abaqus CAE.
 
@@ -89,7 +89,7 @@ The script includes **cohesive zone modeling (CZM)** for analyzing **delaminatio
 - **Python (compatible with Abaqus scripting, typically Python 2.7 or 3.6)**
 - **NumPy & Matplotlib** (for optional post-processing)
 
-<h2>3) <span style="font-weight: normal;">Responsive Flask Web Application with SQL Database (Isabelle's Baptism) [Public Repo]</span></h2>
+# 3) <span style="font-weight: normal;">Responsive Flask Web Application with SQL Database (Isabelle's Baptism) [Public Repo]
 
 This project is a **Flask-based web application** designed to manage guest RSVPs and provide event details for Isabelle’s baptism. The system is built using a **PostgreSQL relational database**, a **responsive front-end**, and a **secure API-driven backend**. It includes a structured MVC pattern and is designed to be **scalable and easily deployable**.
 
