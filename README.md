@@ -209,7 +209,7 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 
 <p>&nbsp;</p>
 
-## Online Profiles
+# Online Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/james-davidson-698431259/)
 - [Google Scholar](https://scholar.google.com/citations?user=OzPJcVwAAAAJ&hl=en)
