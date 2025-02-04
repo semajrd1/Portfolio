@@ -86,7 +86,7 @@ This project is an Abaqus Python script that automates the Finite Element (FE) m
 
 <figure style="text-align: center;">
   <img src="assets/Pin_Strap_FEA.png" alt="Figure Caption" width="300">
-  <figcaption>Figure 1: Simulation Result</figcaption>
+  <figcaption>Figure 1: Example FEM Generated Via Python Scripting.</figcaption>
 </figure>
 
 <p>&nbsp;</p>
