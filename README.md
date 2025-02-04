@@ -30,7 +30,7 @@
 
 | Component                        | Technology Used                                   |
 | -------------------------------- | ------------------------------------------------- |
-| **Frontend**                     | Tkinter (GUI Framework)                           |
+| **Frontend**                     | Tkinter with TTKBootstrap (GUI Framework)         |
 | **Backend**                      | Python (NumPy, SciPy, Pandas, multiprocessing)    |
 | **Data Handling**                | JSON chunk-based strain data processing           |
 | **Geometry Processing**          | Pandas for structured Excel-based transformations |
