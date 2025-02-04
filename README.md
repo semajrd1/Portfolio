@@ -20,15 +20,19 @@ The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** de
 - **Performance Optimization** – Implements memory management techniques including garbage collection and process monitoring.
 - **Logging & Debugging Support** – Uses structured logging for error tracking and performance analysis.
 
-## Technology Stack
-- **Frontend:** Tkinter (GUI Framework)
-- **Backend:** Python (NumPy, SciPy, Pandas, multiprocessing)
-- **Data Handling:** JSON chunk-based strain data processing
-- **Geometry Processing:** Pandas for structured Excel-based transformations
-- **Interpolation & Resampling:** SciPy's `interp1d`, NumPy's `polyfit`
-- **Performance Optimization:** `gc`, `psutil`, multiprocessing
-- **Logging & Debugging:** Python’s `logging` module, `traceback`
-- **File Handling:** OS, shutil, tempfile
+### Technology Stack
+
+| Component                        | Technology Used                                   |
+| -------------------------------- | ------------------------------------------------- |
+| **Frontend**                     | Tkinter (GUI Framework)                           |
+| **Backend**                      | Python (NumPy, SciPy, Pandas, multiprocessing)    |
+| **Data Handling**                | JSON chunk-based strain data processing           |
+| **Geometry Processing**          | Pandas for structured Excel-based transformations |
+| **Interpolation and Resampling** | SciPy's `interp1d`, NumPy's `polyfit`             |
+| **Performance Optimization**     | `gc`, `psutil`, multiprocessing                   |
+| **Logging and Debugging**        | Python’s `logging` module, `traceback`            |
+| **File Handling**                | OS, shutil, tempfile                              |
+
 
 ## Core Processing Workflow
 1. **Data Ingestion**: Reads DFOS strain data in chunks to minimize memory footprint.
