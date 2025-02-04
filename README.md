@@ -21,7 +21,7 @@
 - **Strain Data Processing** – Extracts, resamples, and interpolates strain data for enhanced accuracy.
 - **Geometry-Based Analysis** – Reads structured Excel-based DOF geometry and aligns strain data accordingly.
 - **Graphical User Interface (GUI)** – Tkinter-based real-time data visualization and interaction.
-- **Performance Optimization** – Implements memory management techniques including garbage collection and process monitoring.
+- **Performance Optimisation** – Implements memory management techniques including garbage collection and process monitoring.
 - **Logging & Debugging Support** – Uses structured logging for error tracking and performance analysis.
 
 <p>&nbsp;</p>
@@ -75,13 +75,6 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 - The `--onefile` flag bundles everything into a single executable.
 - The `--windowed` flag ensures the GUI runs without a terminal.
 - The output EXE will be found in the `dist/` folder.
-
-<p>&nbsp;</p>
-
-### Execution & Usage
-- **Run the application:** `python main.py`
-- Alternatively, execute the generated EXE file from `dist/`.
-- The GUI initializes and allows real-time strain data visualization.
 
 <!-- ========================================================================================= -->
 
