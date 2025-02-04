@@ -90,6 +90,11 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 
 This project is an **Abaqus Python script** that automates the **Finite Element (FE) modeling** of composite straps with **pin-loaded connections**. It defines geometry, meshing, material properties, boundary conditions, and contact interactions, allowing for **efficient simulation setup** and execution in Abaqus CAE.
 
+<figure style="text-align: center;">
+  <img src="assets/Pin_Strap_FEA.png" alt="Figure Caption" width="500">
+  <figcaption>Figure 1: Simulation Result</figcaption>
+</figure>
+
 The script includes **cohesive zone modeling (CZM)** for analyzing **delamination and failure mechanisms**, making it ideal for **composite structure research and engineering applications**.
 
 <p>&nbsp;</p>
