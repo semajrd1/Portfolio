@@ -1,6 +1,8 @@
 # Example Projects
 
+
 ## 1) AMRC Quick DFOS Strain Analyser (Ttkbootstrap GUI and Python Data Processing) [Private Repo]
+
 
 The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** designed to process, analyze, and visualize **Distributed Fibre Optic Sensing (DFOS) strain data**. The system efficiently handles large datasets using **chunk-based data processing**, integrates **geometric transformations**, and provides an **interactive visualization interface**.
 
@@ -12,6 +14,7 @@ The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** de
   <figcaption>Figure 1: Video Demo of AMRC Quick DFOS Strain Analyser.</figcaption>
 </figure>
 
+
 ### Key Features
 - **Efficient Data Handling** – Optimized for large JSON-based DFOS strain datasets using chunk-based processing.
 - **Strain Data Processing** – Extracts, resamples, and interpolates strain data for enhanced accuracy.
@@ -19,6 +22,7 @@ The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** de
 - **Graphical User Interface (GUI)** – Tkinter-based real-time data visualization and interaction.
 - **Performance Optimization** – Implements memory management techniques including garbage collection and process monitoring.
 - **Logging & Debugging Support** – Uses structured logging for error tracking and performance analysis.
+
 
 ### Technology Stack
 
@@ -41,6 +45,7 @@ The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** de
 4. **Visualization**: Displays real-time strain variations via the Tkinter-based GUI.
 5. **Performance Enhancements**: Implements structured logging, garbage collection, and parallel execution.
 
+
 ### Project Structure
 ```
 ├── processing/                  # Core strain and geometry processing modules
@@ -55,6 +60,7 @@ The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** de
 ├── requirements.txt             # Dependencies
 ```
 
+
 ### Building the Executable
 This project can be converted into a standalone **Windows EXE** using **PyInstaller**:
 ```sh
@@ -64,6 +70,7 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 - The `--onefile` flag bundles everything into a single executable.
 - The `--windowed` flag ensures the GUI runs without a terminal.
 - The output EXE will be found in the `dist/` folder.
+
 
 ### Execution & Usage
 - **Run the application:** `python main.py`
