@@ -187,6 +187,8 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 
 <p>&nbsp;</p>
 
+---
+
 # Publications
 
 1. **Fracture-Mechanical Properties of Tailored Epoxy Nanocomposites at Elevated Temperatures** (2024) – *Journal of Applied Polymer Science*.
@@ -200,15 +202,14 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 
 <p>&nbsp;</p>
 
+---
+
 # Certifications
 
 - **Dynamic Public Speaking** – University of Washington (Coursera)
 - **DeepLearning.AI TensorFlow Developer** – DeepLearning.AI
 - **IBM AI Engineering** – IBM Skills Network
 - **CS50x Harvard Introduction to Computer Science** – Harvard University
-
-<p>&nbsp;</p>
-
 # Online Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/james-davidson-698431259/)
