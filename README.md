@@ -3,8 +3,6 @@
 
 ## 1) AMRC Quick DFOS Strain Analyser (Ttkbootstrap GUI and Python Data Processing) [Private Repo]
 
-<p>&nbsp;</p>
-
 The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** designed to process, analyze, and visualize **Distributed Fibre Optic Sensing (DFOS) strain data**. The system efficiently handles large datasets using **chunk-based data processing**, integrates **geometric transformations**, and provides an **interactive visualization interface**.
 
 <figure style="text-align: center;">
@@ -89,8 +87,6 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 <p>&nbsp;</p>
 
 ## 2) Python Scripting for Composite Strap Modelling in Abaqus [Public Repo]
-
-<p>&nbsp;</p>
 
 This project is an **Abaqus Python script** that automates the **Finite Element (FE) modeling** of composite straps with **pin-loaded connections**. It defines geometry, meshing, material properties, boundary conditions, and contact interactions, allowing for **efficient simulation setup** and execution in Abaqus CAE.
 
