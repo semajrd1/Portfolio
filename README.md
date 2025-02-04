@@ -181,14 +181,23 @@ This project is a Flask-based web application designed to manage guest RSVPs and
 
 # Publications
 
-1. **Fracture-Mechanical Properties of Tailored Epoxy Nanocomposites at Elevated Temperatures** (2024) – *Journal of Applied Polymer Science*.
-2. **Experimental and Numerical Investigations on the Tensile Response of Pin-Loaded CFRP Straps** (2024) – *Composites Science and Technology*.
-3. **Developing Hybrid C-Sections from Waste and Recycled Composite Materials** (2024) – *Sustainable Materials and Technologies*.
-4. **Advanced Ultrasonic Inspection of Thick-Section Composite Structures** (2023) – *Polymers*.
-5. **Mechanical Characterisation of Pneumatically-Spliced Carbon Fibre Yarns** (2022) – *Materials & Design*.
-6. **Interlaminar Fracture Properties of CFRP Composites with Embedded Toughened Film** (2021) – *Polymers*.
-7. **Powder Epoxy for One-Shot Cure: Lap Shear Strength and Z-Pinning Study** (2021) – *Journal of Composite Science*.
-8. **Modification of Commercial Bisphenol-A-Based Epoxy Resin Using Multifunctional Epoxy Systems** (2021) – *Applied Mechanics*.
+1. **Fracture-Mechanical Properties of Tailored Epoxy Nanocomposites at Elevated Temperatures** (2024) – *Journal of Applied Polymer Science*. Ankur Bajpai*, Arun Kumar Alapati, **James R. Davidson**, Prateek Saxena, Bernd Wetzel. DOI: [10.1002/app.56443](https://doi.org/10.1002/app.56443).
+
+2. **Experimental and Numerical Investigations on the Tensile Response of Pin-Loaded Carbon Fibre Reinforced Polymer Straps** (2024) – *Composites Science and Technology*. Danijela Stankovic*, **James R. Davidson**, Valentin Ott, Luke A. Bisby, Giovanni P. Terrasi. DOI: [10.1016/j.compscitech.2024.110915](https://doi.org/10.1016/j.compscitech.2024.110915).
+
+3. **Developing Hybrid C-Sections from Waste and Recycled Composite Materials** (2024) – *Sustainable Materials and Technologies*. Danijela Stankovic, Saskia Bulstrode, **James R. Davidson**, Dilum Fernando, Dipa Ray*. Volume 41. DOI: [10.1016/j.susmat.2024.e01102](https://doi.org/10.1016/j.susmat.2024.e01102).
+
+4. **Advanced Ultrasonic Inspection of Thick-Section Composite Structures for In-Field Asset Maintenance** (2023) – *Polymers*. James A. Quinn*, **James R. Davidson**, Ankur Bajpai, Conchúr M. Ó Brádaigh, Edward D. McCarthy. 15(15). DOI: [10.3390/polym15153175](https://doi.org/10.3390/polym15153175).
+
+5. **Mechanical Characterisation of Pneumatically-Spliced Carbon Fibre Yarns as Reinforcements for Polymer Composites** (2022) – *Materials & Design*. **James R. Davidson***, James A. Quinn, Claudia Rothmann, Ankur Bajpai, Colin Robert, Conchúr M. Ó Brádaigh, Edward D. McCarthy. Volume 213. DOI: [10.1016/j.matdes.2021.110305](https://doi.org/10.1016/j.matdes.2021.110305).
+
+6. **Experimental Study on the Interlaminar Fracture Properties of Carbon Fibre Reinforced Polymer Composites with a Single Embedded Toughened Film** (2021) – *Polymers*. Evanthia J. Pappa*, James A. Quinn, James J. Murray, **James R. Davidson**, Conchúr M. Ó Brádaigh, Edward D. McCarthy. 13(23):4103. DOI: [10.3390/polym13234103](https://doi.org/10.3390/polym13234103).
+
+7. **Powder Epoxy for One-Shot Cure, Out-of-Autoclave Applications: Lap Shear Strength and Z-Pinning Study** (2021) – *Journal of Composite Science*. Thomas Noble, **James R. Davidson**, Christophe Floreani, Ankur Bajpai, William Moses, Thomas Dooher, Alistair McIlhagger, Edward D. McCarthy, Conchúr M. Ó Brádaigh, Colin Robert*. 5(9):225. DOI: [10.3390/jcs5090225](https://doi.org/10.3390/jcs5090225).
+
+8. **Studies on the Modification of Commercial Bisphenol-A-Based Epoxy Resin Using Different Multifunctional Epoxy Systems** (2021) – *Applied Mechanics*. Ankur Bajpai*, **James R. Davidson**, Colin Robert. 2(2):419-430. DOI: [10.3390/jcs5090225](https://doi.org/10.3390/jcs5090225).
+
+
 
 <p>&nbsp;</p>
 
