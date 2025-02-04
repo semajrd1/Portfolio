@@ -159,7 +159,7 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 
 ---
 
-## Technical Competencies
+# Technical Competencies
 
 - **Programming Languages**: Python, SQL, MATLAB, C, JavaScript, LaTeX
 - **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn, YOLO, K-means clustering, Deep Learning
@@ -171,7 +171,8 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 
 ---
 
-## Conferences & Presentations
+# Conferences & Presentations
+
 - **Distributed Fibre Optic Sensing for VARTM Composite Manufacturing** – *FPCM 2025, Abu Dhabi, UAE.*
 - **Flow Front Monitoring in Pneumatically Spliced Woven Fabrics** – *FPCM 2025, Abu Dhabi, UAE.*
 - **On-Line Pneumatic Compaction System for Polymer Towpreg Processing** – *FPCM 2025, Abu Dhabi, UAE.*
@@ -186,7 +187,8 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 
 <p>&nbsp;</p>
 
-## Publications
+# Publications
+
 1. **Fracture-Mechanical Properties of Tailored Epoxy Nanocomposites at Elevated Temperatures** (2024) – *Journal of Applied Polymer Science*.
 2. **Experimental and Numerical Investigations on the Tensile Response of Pin-Loaded CFRP Straps** (2024) – *Composites Science and Technology*.
 3. **Developing Hybrid C-Sections from Waste and Recycled Composite Materials** (2024) – *Sustainable Materials and Technologies*.
@@ -198,7 +200,8 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 
 <p>&nbsp;</p>
 
-## Certifications
+# Certifications
+
 - **Dynamic Public Speaking** – University of Washington (Coursera)
 - **DeepLearning.AI TensorFlow Developer** – DeepLearning.AI
 - **IBM AI Engineering** – IBM Skills Network
@@ -207,6 +210,7 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 <p>&nbsp;</p>
 
 ## Online Profiles
+
 - [LinkedIn](https://www.linkedin.com/in/james-davidson-698431259/)
 - [Google Scholar](https://scholar.google.com/citations?user=OzPJcVwAAAAJ&hl=en)
 - [GitHub](https://semajrd1.github.io/Portfolio/)
