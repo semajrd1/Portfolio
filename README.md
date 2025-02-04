@@ -42,10 +42,10 @@
 <p>&nbsp;</p>
 
 ### Core Processing Workflow
-1. **Data Ingestion**: Reads DFOS strain data in chunks to minimize memory footprint.
+1. **Data Ingestion**: Reads DFOS strain data in chunks to minimise memory footprint.
 2. **Preprocessing**: Extracts strain values, applies resampling, and interpolates missing data.
 3. **Geometric Alignment**: Reads and processes Excel-based DOF geometry.
-4. **Visualization**: Displays real-time strain variations via the Tkinter-based GUI.
+4. **Visualisation**: Displays real-time strain variations via the Tkinter-based GUI.
 5. **Performance Enhancements**: Implements structured logging, garbage collection, and parallel execution.
 
 <p>&nbsp;</p>
