@@ -3,6 +3,7 @@
 
 ## 1) AMRC Quick DFOS Strain Analyser (Ttkbootstrap GUI and Python Data Processing) [Private Repo]
 
+<p>&nbsp;</p>
 
 The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** designed to process, analyze, and visualize **Distributed Fibre Optic Sensing (DFOS) strain data**. The system efficiently handles large datasets using **chunk-based data processing**, integrates **geometric transformations**, and provides an **interactive visualization interface**.
 
@@ -85,11 +86,15 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 
 <!-- ========================================================================================= -->
 
+<p>&nbsp;</p>
+
 ## 2) Python Scripting for Composite Strap Modelling in Abaqus [Public Repo]
 
 This project is an **Abaqus Python script** that automates the **Finite Element (FE) modeling** of composite straps with **pin-loaded connections**. It defines geometry, meshing, material properties, boundary conditions, and contact interactions, allowing for **efficient simulation setup** and execution in Abaqus CAE.
 
 The script includes **cohesive zone modeling (CZM)** for analyzing **delamination and failure mechanisms**, making it ideal for **composite structure research and engineering applications**.
+
+<p>&nbsp;</p>
 
 ### Features
 - 📏 **Parametric Geometry Creation** – Define **strap and pin dimensions** in the script for custom models.
@@ -100,10 +105,14 @@ The script includes **cohesive zone modeling (CZM)** for analyzing **delaminatio
 - 🫏 **Contact & Interaction Definition** – Includes **tie constraints, cohesive contact, and frictional interactions**.
 - ⚡ **Batch Job Submission** – Runs simulations in **Abaqus/CAE** without manual intervention.
 
+<p>&nbsp;</p>
+
 ### Installation & Requirements  
 - **Abaqus CAE (2020 or later)**
 - **Python (compatible with Abaqus scripting, typically Python 2.7 or 3.6)**
 - **NumPy & Matplotlib** (for optional post-processing)
+
+<p>&nbsp;</p>
 
 ## 3) <span style="font-weight: normal;">Responsive Flask Web Application with SQL Database (Isabelle's Baptism) [Public Repo]
 
@@ -117,6 +126,8 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
   <figcaption>Figure 1: Video Demo of Isabelle's Baptism Web App.</figcaption>
 </figure>
 
+<p>&nbsp;</p>
+
 ### Key Features
 - **Event Information System** – Displays event details with dynamic content rendering through Jinja2 templates.
 - **Guest RSVP Management** – Enables user form submission with real-time validation and database storage.
@@ -125,11 +136,15 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 - **RESTful API Integration** – Supports data exchange and future expansion into mobile/web applications.
 - **Responsive Frontend** – Uses CSS Grid and SASS for layout management and optimized UI across devices.
 
+<p>&nbsp;</p>
+
 ### Technology Stack
 - **Frontend:** HTML, CSS (SASS), JavaScript
 - **Backend:** Flask (Python), Jinja2, SQLAlchemy ORM
 - **Database:** PostgreSQL (primary), SQLite (fallback for local development)
 - **Security Measures:** Environment variable configurations, database migration compatibility, and input validation.
+
+<p>&nbsp;</p>
 
 ### Project Structure
 ```
@@ -142,6 +157,8 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 ├── requirements.txt   # Dependencies
 ```
 
+<p>&nbsp;</p>
+
 ---
 
 ## Technical Competencies
@@ -151,6 +168,8 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 - **Cloud & Databases**: AWS (Lambda, S3, DynamoDB, EC2), Snowflake, PostgreSQL, MySQL
 - **Engineering & Simulation Software**: Abaqus, Ansys Workbench, Fusion 360
 - **Data Visualization**: Matplotlib, Plotly, Seaborn, Power BI
+
+<p>&nbsp;</p>
 
 ---
 
@@ -167,6 +186,8 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 - **Sustainability in Construction: Waste Plastics into High-Value Composites** – *Polymers 2024, Athens, Greece.*
 - **Adhesive Joint Design: Composite Layup Tailoring for Stress Optimisation** – *FiBreMod Conf., Dec 2019, Leuven, Belgium.*
 
+<p>&nbsp;</p>
+
 ## Publications
 1. **Fracture-Mechanical Properties of Tailored Epoxy Nanocomposites at Elevated Temperatures** (2024) – *Journal of Applied Polymer Science*.
 2. **Experimental and Numerical Investigations on the Tensile Response of Pin-Loaded CFRP Straps** (2024) – *Composites Science and Technology*.
@@ -177,11 +198,15 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 7. **Powder Epoxy for One-Shot Cure: Lap Shear Strength and Z-Pinning Study** (2021) – *Journal of Composite Science*.
 8. **Modification of Commercial Bisphenol-A-Based Epoxy Resin Using Multifunctional Epoxy Systems** (2021) – *Applied Mechanics*.
 
+<p>&nbsp;</p>
+
 ## Certifications
 - **Dynamic Public Speaking** – University of Washington (Coursera)
 - **DeepLearning.AI TensorFlow Developer** – DeepLearning.AI
 - **IBM AI Engineering** – IBM Skills Network
 - **CS50x Harvard Introduction to Computer Science** – Harvard University
+
+<p>&nbsp;</p>
 
 ## Online Profiles
 - [LinkedIn](https://www.linkedin.com/in/james-davidson-698431259/)
