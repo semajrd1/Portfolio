@@ -163,17 +163,28 @@ This project is a Flask-based web application designed to manage guest RSVPs and
 
 # Conferences & Presentations
 
-- **Distributed Fibre Optic Sensing for VARTM Composite Manufacturing** – *FPCM 2025, Abu Dhabi, UAE.*
-- **Flow Front Monitoring in Pneumatically Spliced Woven Fabrics** – *FPCM 2025, Abu Dhabi, UAE.*
-- **On-Line Pneumatic Compaction System for Polymer Towpreg Processing** – *FPCM 2025, Abu Dhabi, UAE.*
-- **Stacking Sequence Influence on Notched CF-Epoxy Laminate Performance** – *SAMPE Europe Conf. 2024, Belfast, Northern Ireland.*
-- **Use of Waste Plastics/Fibers in High-Performance C-Sections** – *ICCS27, Sep 2024, Bologna, Italy.*
-- **Mechanical Characterisation of Pneumatically Spliced Connections** – *ECCM21, Jul 2024, Nantes, France.*
-- **Tailored Hybrid Composite Preforms via Fibre Placement** – *ECCM21, Jul 2024, Nantes, France.*
-- **Recycled Fibre-Reinforced Thermoplastics: Performance Assessment** – *Polymers 2024, Athens, Greece.*
-- **Electrostatic Powder Deposition on Epoxy Tapeline** – *Polymers 2024, Athens, Greece.*
-- **Sustainability in Construction: Waste Plastics into High-Value Composites** – *Polymers 2024, Athens, Greece.*
-- **Adhesive Joint Design: Composite Layup Tailoring for Stress Optimisation** – *FiBreMod Conf., Dec 2019, Leuven, Belgium.*
+1. **Distributed Fibre Optic Sensing for Real-Time Monitoring of VARTM Manufacturing and Processing of Composite Laminates** – *FPCM 2025, Abu Dhabi, UAE.* James R. Davidson*, Fayyaad Amod, Oliver M. Simpson, Hanisa Hasrin, Danijela Stankovic, Conchúr M. Ó Brádaigh, Samuel Furtado.
+
+2. **Flow Front Monitoring and Permeability Analysis of Pneumatically Spliced Woven Fabrics** – *FPCM 2025, Abu Dhabi, UAE.* Fayyaad Amod*, James R. Davidson, Mohammed S. Alotaibi, Hanisa Hasrin, Danijela Stankovic, Conchúr Ó Brádaigh, Colin Robert.
+
+3. **On-Line Pneumatic Compaction System for Consolidation on a Powder Polymer Towpreg Processing Line** – *FPCM 2025, Abu Dhabi, UAE.* Hanisa Hasrin*, Fayyaad Amod, James R. Davidson, Conchúr M. Ó Brádaigh, Colin Robert.
+
+4. **Influence of Stacking Sequence and Exclusion Diameter on Mechanical Performance of Notched Angle-Ply CF-Epoxy Laminates** – *SAMPE Europe Conf. 2024, Belfast, Northern Ireland.* James R. Davidson*, Danijela Stankovic, James A. Quinn, James M. Maguire, Gabrielis Cerniauskas, Ankur Bajpai, Colin Robert, Conchúr M. Ó Brádaigh, Edward D. McCarthy.
+
+5. **Unlocking Potential: Exploring the Use of Waste Mixed Plastics and Waste Fibres in High-Performance C-Sections** – *ICCS27, Sep 2024, Bologna, Italy.* Danijela Stankovic*, James R. Davidson, Saskia Bulstrode, Dilum Fernando, Dipa Ray.
+
+6. **Exploring Seamless Fibre Transitions: Mechanical Characterisation Of Pneumatically Spliced Connections For Multi-Material Composites** – *ECCM21, Jul 2024, Nantes, France.* James R. Davidson*, Shunhua Mai, Fayyaad Amod, Danijela Stankovic, Mohammed S. Alotiabi, Murat Çelik, Hanisa Hasrin, Colin Robert, Edward D. McCarthy, Conchúr M. Ó Brádaigh. DOI: 10.60691/yj56-np80.
+
+7. **Tailored Hybrid Composite Preforms by Automated Fibre Placement of Powder Epoxy-Based Towpregs** – *ECCM21, Jul 2024, Nantes, France.* Murat Çelik*, Arun Kumar Alapati, James R. Davidson, Hanisa Hasrin, David May, Colin Robert, Conchúr Ó Brádaigh. DOI: 10.60691/yj56-np80.
+
+8. **Recycled Extruded Fibre-Reinforced Thermoplastics for a Sustainable Future: Tensile, Flexural, and DMA Performance Assessment** – *Polymers 2024, Athens, Greece.* James R. Davidson*, Anastasia P. Tsavea, Alejandro Perez, Danijela Stankovic, Fayyaad Amod, Hanisa Hasrin, Colin Robert, Conchúr M. Ó Brádaigh. Poster-DOI: 10.13140/RG.2.2.14623.98724.
+
+9. **Numerical and experimental investigation of wrap-around effect of electrostatic powder deposition on a powder epoxy tapeline** – *Polymers 2024, Athens, Greece.* Hanisa Hasrin*, Murat Çelik, Thomas Noble, James R. Davidson, Conchúr M. Ó Brádaigh, Colin Robert. Poster-DOI: 10.13140/RG.2.2.25752.00005.
+
+10. **Sustainability in Construction: Transforming Waste Plastics into High-Value Composites** – *Polymers 2024, Athens, Greece.* Danijela Stankovic Davidson*, Kit O'Rourke, James R. Davidson, Christopher Griffin, Keith Doyle, Dipa Ray. Poster-DOI: 10.13140/RG.2.2.17892.59528.
+
+11. **A Unique Approach to Adhesive Joint Design: Composite Layup Tailoring for Bondline Stress Optimisation** – *FiBreMod Conf., Dec 2019, Leuven, Belgium.* James R. Davidson*, Edward D. McCarthy, Conchúr M. Ó Brádaigh.
+
 
 <p>&nbsp;</p>
 
