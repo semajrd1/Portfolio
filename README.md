@@ -86,7 +86,7 @@ This project is an Abaqus Python script that automates the Finite Element (FE) m
 
 <figure style="text-align: center;">
   <img src="assets/Pin_Strap_FEA.png" alt="Figure Caption" width="300">
-  <figcaption>Figure 1: Example FEM Generated Via Python Scripting.</figcaption>
+  <figcaption>Figure 2: Example FEM Generated Via Python Scripting.</figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -118,7 +118,7 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
     src="https://www.youtube.com/embed/7SG_m_pFNII?mute=1" 
     frameborder="0" allowfullscreen>
   </iframe>
-  <figcaption>Figure 1: Video Demo of Isabelle's Baptism Web App.</figcaption>
+  <figcaption>Figure 3: Video Demo of Isabelle's Baptism Web App.</figcaption>
 </figure>
 
 <p>&nbsp;</p>
