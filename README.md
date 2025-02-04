@@ -1,4 +1,4 @@
-# Example Projects
+# Example Developer Projects
 
 
 ## 1) Quick DFOS Strain Analyser — Ttkbootstrap GUI and Python-Based Data Processing — Private Repository
