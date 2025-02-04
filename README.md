@@ -210,6 +210,7 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 - **DeepLearning.AI TensorFlow Developer** – DeepLearning.AI
 - **IBM AI Engineering** – IBM Skills Network
 - **CS50x Harvard Introduction to Computer Science** – Harvard University
+- 
 # Online Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/james-davidson-698431259/)
