@@ -14,7 +14,7 @@ The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** de
   <figcaption>Figure 1: Video Demo of AMRC Quick DFOS Strain Analyser.</figcaption>
 </figure>
 
-
+<p>&nbsp;</p>
 ### Key Features
 - **Efficient Data Handling** – Optimized for large JSON-based DFOS strain datasets using chunk-based processing.
 - **Strain Data Processing** – Extracts, resamples, and interpolates strain data for enhanced accuracy.
