@@ -1,7 +1,7 @@
 # Example Projects
 
 
-## 1) [Quick DFOS Strain Analyser](https://github.com/semajrd1/DFOS-Analyser) — Ttkbootstrap GUI and Python-Based Data Processing (Private Repository)
+## 1) [Quick DFOS Strain Analyser](https://github.com/semajrd1/DFOS-Analyser) — Ttkbootstrap GUI and Python-Based Data Processing — Private Repository
 
 
 'Quick DFOS Strain Analyser' is a python-based GUI application designed to process, analyse, and visualise distributed fibre optic sensing (DFOS) strain data. The system efficiently handles large datasets using chunk-based data processing, integrates geometric transformations, and provides an interactive visualization interface.
