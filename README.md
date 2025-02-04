@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 
 ### Key Features
-- **Efficient Data Handling** – Optimized for large JSON-based DFOS strain datasets using chunk-based processing.
+- **Efficient Data Handling** – Designed for large JSON-based DFOS strain datasets using chunk-based processing.
 - **Strain Data Processing** – Extracts, resamples, and interpolates strain data for enhanced accuracy.
 - **Geometry-Based Analysis** – Reads structured Excel-based DOF geometry and aligns strain data accordingly.
 - **Graphical User Interface (GUI)** – Tkinter-based real-time data visualization and interaction.
