@@ -1,7 +1,7 @@
 # Example Projects
 
 
-## 1) [Quick DFOS Strain Analyser](https://github.com/semajrd1/DFOS-Analyser) (Ttkbootstrap GUI and Python-Based Data Processing) [Private Repo]
+## 1) [Quick DFOS Strain Analyser](https://github.com/semajrd1/DFOS-Analyser) (Ttkbootstrap GUI and Python-Based Data Processing) [Private Repository]
 
 
 'Quick DFOS Strain Analyser' is a python-based GUI application designed to process, analyse, and visualise distributed fibre optic sensing (DFOS) strain data. The system efficiently handles large datasets using chunk-based data processing, integrates geometric transformations, and provides an interactive visualization interface.
@@ -87,7 +87,7 @@ pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
 
 <p>&nbsp;</p>
 
-## 2) Python Scripting for Composite Strap Modelling in Abaqus [<a href="https://github.com/semajrd1/Abaqus-Macros" target="_blank">Public Repo</a>]
+## 2) Python Scripting for Composite Strap Modelling in Abaqus [<a href="https://github.com/semajrd1/Abaqus-Macros" target="_blank">Public Repository</a>]
 
 This project is an **Abaqus Python script** that automates the **Finite Element (FE) modeling** of composite straps with **pin-loaded connections**. It defines geometry, meshing, material properties, boundary conditions, and contact interactions, allowing for **efficient simulation setup** and execution in Abaqus CAE.
 
