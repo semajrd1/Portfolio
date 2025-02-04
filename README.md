@@ -5,16 +5,72 @@
 The **AMRC Quick DFOS Strain Analyser** is a **Python-based GUI application** designed to process, analyze, and visualize **Distributed Fibre Optic Sensing (DFOS) strain data**. The system efficiently handles large datasets using **chunk-based data processing**, integrates **geometric transformations**, and provides an **interactive visualization interface**.
 
 <figure style="text-align: center;">
-  <iframe width="420" height="324" 
   <iframe width="340" height="280"
     src="https://www.youtube.com/embed/0f-DgnXBncE?mute=1" 
     frameborder="0" allowfullscreen>
   </iframe>
-@@ -71,80 +71,80 @@
+  <figcaption>Figure 1: Video Demo of AMRC Quick DFOS Strain Analyser.</figcaption>
+</figure>
+
+## Key Features
+- **Efficient Data Handling** – Optimized for large JSON-based DFOS strain datasets using chunk-based processing.
+- **Strain Data Processing** – Extracts, resamples, and interpolates strain data for enhanced accuracy.
+- **Geometry-Based Analysis** – Reads structured Excel-based DOF geometry and aligns strain data accordingly.
+- **Graphical User Interface (GUI)** – Tkinter-based real-time data visualization and interaction.
+- **Performance Optimization** – Implements memory management techniques including garbage collection and process monitoring.
+- **Logging & Debugging Support** – Uses structured logging for error tracking and performance analysis.
+
+## Technology Stack
+- **Frontend:** Tkinter (GUI Framework)
+- **Backend:** Python (NumPy, SciPy, Pandas, multiprocessing)
+- **Data Handling:** JSON chunk-based strain data processing
+- **Geometry Processing:** Pandas for structured Excel-based transformations
+- **Interpolation & Resampling:** SciPy's `interp1d`, NumPy's `polyfit`
+- **Performance Optimization:** `gc`, `psutil`, multiprocessing
+- **Logging & Debugging:** Python’s `logging` module, `traceback`
+- **File Handling:** OS, shutil, tempfile
+
+## Core Processing Workflow
+1. **Data Ingestion**: Reads DFOS strain data in chunks to minimize memory footprint.
+2. **Preprocessing**: Extracts strain values, applies resampling, and interpolates missing data.
+3. **Geometric Alignment**: Reads and processes Excel-based DOF geometry.
+4. **Visualization**: Displays real-time strain variations via the Tkinter-based GUI.
+5. **Performance Enhancements**: Implements structured logging, garbage collection, and parallel execution.
+
+## Project Structure
+```
+├── processing/                  # Core strain and geometry processing modules
+│   ├── strain_processing.py     # Extracts, resamples, and interpolates strain data
+│   ├── geometry_processing.py   # Reads and aligns DOF geometry with strain measurements
+├── gui/                         # Graphical user interface components
+│   ├── gui.py                   # Tkinter-based visualization interface
+├── utils/                       # Logging and file handling utilities
+│   ├── file_helpers.py          # Handles file operations
+│   ├── logging_helpers.py       # Manages structured logging
+├── main.py                      # Entry point for application execution
+├── requirements.txt             # Dependencies
+```
+
+## Building the Executable
+This project can be converted into a standalone **Windows EXE** using **PyInstaller**:
+```sh
+pip install pyinstaller
+pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
+```
+- The `--onefile` flag bundles everything into a single executable.
+- The `--windowed` flag ensures the GUI runs without a terminal.
+- The output EXE will be found in the `dist/` folder.
+
+## Execution & Usage
+- **Run the application:** `python main.py`
+- Alternatively, execute the generated EXE file from `dist/`.
+- The GUI initializes and allows real-time strain data visualization.
+
+<h2>2) <span style="font-weight: normal;">Responsive Flask Web Application with SQL Database (Isabelle's Baptism) [Public Repo]</span></h2>
+
 This project is a **Flask-based web application** designed to manage guest RSVPs and provide event details for Isabelle’s baptism. The system is built using a **PostgreSQL relational database**, a **responsive front-end**, and a **secure API-driven backend**. It includes a structured MVC pattern and is designed to be **scalable and easily deployable**.
 
 <figure style="text-align: center;">
-  <iframe width="420" height="324" 
   <iframe width="340" height="280" 
     src="https://www.youtube.com/embed/7SG_m_pFNII?mute=1" 
     frameborder="0" allowfullscreen>
@@ -87,11 +143,6 @@ This project is a **Flask-based web application** designed to manage guest RSVPs
 - **DeepLearning.AI TensorFlow Developer** – DeepLearning.AI
 - **IBM AI Engineering** – IBM Skills Network
 - **CS50x Harvard Introduction to Computer Science** – Harvard University
-
-## Online Profiles
-- [LinkedIn](https://www.linkedin.com/in/james-davidson-698431259/)
-- [Google Scholar](https://scholar.google.com/citations?user=OzPJcVwAAAAJ&hl=en)
-- [GitHub](https://semajrd1.github.io/Portfolio/)
 
 ## Online Profiles
 - [LinkedIn](https://www.linkedin.com/in/james-davidson-698431259/)
