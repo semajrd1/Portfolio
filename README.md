@@ -218,10 +218,13 @@ This project is a Flask-based web application designed to manage guest RSVPs and
 
 # Certifications
 
-- **Dynamic Public Speaking** – University of Washington (Coursera)
-- **DeepLearning.AI TensorFlow Developer** – DeepLearning.AI
-- **IBM AI Engineering** – IBM Skills Network
-- **CS50x Harvard Introduction to Computer Science** – Harvard University
+1. **UW Dynamic Public Speaking (Specialisation Certificate)** – *University of Washington (Online)*. Modules: 'Introduction to Public Speaking', 'Speaking to Inform', 'Speaking to Persuade', 'Speaking to Inspire'.
+
+2. **DeepLearning.AI TensorFlow Developer (Specialisation Certificate)** – *DeepLearning.AI (Online)*. Modules: 'Introduction to TensorFlow for AI, ML, and Deep Learning', 'Convolutional Neural Networks in TensorFlow', 'Natural Language Processing in TensorFlow', 'Sequences, Time Series, and Prediction'.
+
+3. **IBM AI Engineering (Specialisation Certificate)** – *IBM Skills Network (Online)*. Modules: 'Introduction to Computer Vision and Image Processing', 'Machine Learning with Python', 'AI Capstone Project with Deep Learning', 'Deep Neural Networks with PyTorch', 'Building Deep Learning Models with TensorFlow', 'Introduction to Deep Learning & Neural Networks with Keras'.
+
+4. **CS50x Harvard Introduction to Computer Science (Course Certificate)** – *Harvard University (Online)*. Modules: 'Scratch', 'C', 'Arrays', 'Algorithms', 'Memory', 'Data Structures', 'Python', 'SQL', 'HTML, CSS & JavaScript', 'Flask', 'Emoji', 'Cybersecurity'. Final Project: 'Responsive Flask Web App (Python, HTML, SCSS & JavaScript) with PostgreSQL database'.
   
 # Online Profiles
 
