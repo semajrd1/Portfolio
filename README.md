@@ -110,7 +110,7 @@ This project is a Flask-based web application designed to manage guest RSVPs and
     src="https://www.youtube.com/embed/7SG_m_pFNII?mute=1" 
     frameborder="0" allowfullscreen>
   </iframe>
-  <figcaption>Figure 3: Video demo of Isabelle's Baptism Web App.</figcaption>
+  <figcaption>Figure 3: Video demonstration of Isabelle's baptism web application.</figcaption>
 </figure>
 
 ### Key Features
