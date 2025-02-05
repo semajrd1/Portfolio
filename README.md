@@ -151,11 +151,13 @@ This project is a Flask-based web application designed to manage guest RSVPs and
 
 # Technical Competencies
 
-- **Programming Languages**: Python, SQL, MATLAB, C, JavaScript, LaTeX
-- **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn, YOLO, K-means clustering, Deep Learning
-- **Cloud & Databases**: AWS (Lambda, S3, DynamoDB, EC2), Snowflake, PostgreSQL, MySQL
-- **Engineering & Simulation Software**: Abaqus, Ansys Workbench, Fusion 360
-- **Data Visualization**: Matplotlib, Plotly, Seaborn, Power BI
+**Programming Languages**: Python, MATLAB, SQL, LaTeX, Bash, C, JavaScript.
+**Python Libraries**: TensorFlow, Keras, NumPy, Pandas, Matplotlib, PIL, YOLO, PyTorch, Plotly, Scikit-learn, Flask, SciPy, Seaborn, OpenCV, NLTK, Beautiful Soup, Selenium, Tkinter, Multiprocessing, Gc, Logging, Shutil.
+**Databases**: PostgreSQL, MySQL.
+**Version Control**: Git, GitHub.
+**Web Development**: Flask, Jinja2, HTML, CSS, Bootstrap.
+**Software**: Abaqus, Tosca, Isight, StarCCM+, Adobe Photoshop, Autodesk Fusion 360, Siemens SolidEdge, Blender, Adobe After Effects, Adobe InDesign, Microsoft Office (Excel, Word, PowerPoint), Apple Keynote, Apple Numbers, Logic Pro, ParaView, GIMP, pgAdmin 4, Texmaker, Jupyter Notebook, VS Code, Ansys Workbench, Ansys SpaceClaim, Ansys Mechanical.
+**Soft Skills**: Presentation, Planning, Organization, Creative Problem-Solving, Teamwork, Active Listening, Adaptability, Analytical Thinking.
 
 <p>&nbsp;</p>
 
