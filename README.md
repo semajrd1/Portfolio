@@ -10,7 +10,7 @@
     src="https://www.youtube.com/embed/0f-DgnXBncE?mute=1" 
     frameborder="0" allowfullscreen>
   </iframe>
-  <figcaption>Figure 1: Video Demo of Quick DFOS Strain Analyser.</figcaption>
+  <figcaption>Figure 1: Video demonstration of Quick DFOS Strain Analyser.</figcaption>
 </figure>
 
 ### Key Features
@@ -75,7 +75,7 @@ This repository contains a collection of Python scripts (abaqusMacros.py) design
 
 <figure style="text-align: center;">
   <img src="assets/Pin_Strap_FEA.png" alt="Figure Caption" width="300">
-  <figcaption>Figure 2: Example FEM Generated Via Python Scripting.</figcaption>
+  <figcaption>Figure 2: Example FEM generated via Python scripting.</figcaption>
 </figure>
 
 ### Key Features
