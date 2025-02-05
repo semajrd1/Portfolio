@@ -3,7 +3,6 @@
 
 ## 1) Quick DFOS Strain Analyser — Ttkbootstrap GUI and Python-Based Data Processing — Private Repository
 
-
 'Quick DFOS Strain Analyser' is a python-based GUI application designed to process, analyse, and visualise distributed fibre optic sensing (DFOS) strain data. The system efficiently handles large datasets using chunk-based data processing, integrates geometric transformations, and provides an interactive visualisation interface.
 
 <figure style="text-align: center;">
@@ -14,8 +13,6 @@
   <figcaption>Figure 1: Video Demo of Quick DFOS Strain Analyser.</figcaption>
 </figure>
 
-<p>&nbsp;</p>
-
 ### Key Features
 - **Efficient Data Handling** – Designed for large JSON-based DFOS strain datasets using chunk-based processing.
 - **Strain Data Processing** – Extracts, resamples, and interpolates strain data for enhanced accuracy.
@@ -23,8 +20,6 @@
 - **Graphical User Interface (GUI)** – Tkinter-based real-time data visualization and interaction.
 - **Performance Optimisation** – Implements memory management techniques including garbage collection and process monitoring.
 - **Logging & Debugging Support** – Uses structured logging for error tracking and performance analysis.
-
-<p>&nbsp;</p>
 
 ### Technology Stack
 
@@ -39,16 +34,12 @@
 | **Logging and Debugging**        | Python’s logging module, traceback                |
 | **File Handling**                | OS, shutil, tempfile                              |
 
-<p>&nbsp;</p>
-
 ### Core Processing Workflow
 1. **Data Ingestion**: Reads DFOS strain data in chunks to minimise memory footprint.
 2. **Preprocessing**: Extracts strain values, applies resampling, and interpolates missing data.
 3. **Geometric Alignment**: Reads and processes Excel-based DOF geometry.
 4. **Visualisation**: Displays real-time strain variations via the Tkinter-based GUI.
 5. **Performance Enhancements**: Implements structured logging, garbage collection, and parallel execution.
-
-<p>&nbsp;</p>
 
 ### Project Structure
 ```
@@ -64,8 +55,6 @@
 ├── requirements.txt             # Dependencies
 ```
 
-<p>&nbsp;</p>
-
 ### Building the Executable
 This project can be converted into a executable using PyInstaller:
 ```sh
@@ -76,9 +65,9 @@ pyinstaller --onefile --windowed --name "DFOS_Analyser" main.py
 - The `--windowed` flag ensures the GUI runs without a terminal.
 - The output EXE will be found in the `dist/` folder.
 
-<!-- ========================================================================================= -->
-
 <p>&nbsp;</p>
+
+<!-- ========================================================================================= -->
 
 # 2) Abaqus Macros Repository
 
