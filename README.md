@@ -99,6 +99,10 @@ This repository includes several Abaqus Python scripts for automating Finite Ele
 - **Python 2.7 or 3.x** (Depending on Abaqus version)
 - Basic understanding of Abaqus scripting and FEA
 
+<p>&nbsp;</p>
+
+<!-- ========================================================================================= -->
+
 ## 3) [Responsive Flask Web Application with SQL Database](https://github.com/semajrd1/Isabelle-Baptism-Website) — "Isabelle's Baptism Website" — Public Repository
 
 This project is a Flask-based web application designed to manage guest RSVPs and provide event details for Isabelle’s baptism. The system is built using a PostgreSQL relational database, a responsive front-end, and a secure API-driven backend. It includes a structured MVC pattern and is designed to be scalable and easily deployable.
