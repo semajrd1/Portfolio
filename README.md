@@ -80,27 +80,32 @@ pyinstaller --onefile --windowed --name "DFOS_Analyser" main.py
 
 <p>&nbsp;</p>
 
-## 2) [Python Scripting for Composite Structural Simulations in Abaqus](https://github.com/semajrd1/Abaqus-Macros) — Public Repository
+# Abaqus Macros Repository
 
-This project is an Abaqus Python script that automates the Finite Element (FE) modeling of composite straps with pin-loaded connections. It defines geometry, meshing, material properties, boundary conditions, and contact interactions, allowing for efficient simulation setup and execution in Abaqus CAE. The script includes cohesive zone modeling (CZM) for analyzing delamination and failure mechanisms, making it ideal for composite structure research and engineering applications.
+## Overview
 
-<figure style="text-align: center;">
-  <img src="assets/Pin_Strap_FEA.png" alt="Figure Caption" width="300">
-  <figcaption>Figure 2: Example FEM Generated Via Python Scripting.</figcaption>
-</figure>
+This repository contains a collection of Python scripts (`abaqusMacros.py`) designed to automate Finite Element Analysis (FEA) in Abaqus. These scripts streamline model creation, meshing, material property assignment, boundary condition application, and result extraction for various structural analyses. The repository is continuously updated with new scripts to support different FEA workflows.
 
-<p>&nbsp;</p>
+## Key Features
 
-### Features
-- **Parametric Geometry Creation** – Define strap and pin dimensions in the script for custom models.
-- **Advanced Material Properties** – Supports orthotropic composites and isotropic metallic materials.
-- **Cohesive Zone Modeling (CZM)** – Enables delamination and failure predictions in laminated composites.
-- **Mesh Generation & Refinement** – Uses adaptive meshing with fine curved-edge refinements.
-- **Automated Boundary Conditions & Loads** – Applies symmetry constraints and displacement-driven loading.
-- **Contact & Interaction Definition** – Includes tie constraints, cohesive contact, and frictional interactions.
-- **Batch Job Submission** – Runs simulations in Abaqus/CAE without manual intervention.
+- **Parametric Model Generation** – Automates geometry creation for different structural configurations.  
+- **Advanced Material Modeling** – Supports orthotropic composite materials, isotropic metals, and customizable material definitions.  
+- **Cohesive Zone Modeling (CZM)** – Implements cohesive elements and contact-based approaches for delamination analysis.  
+- **Automated Meshing & Refinement** – Controls mesh density and element types for efficient convergence.  
+- **Boundary Conditions & Loading** – Applies symmetry constraints, displacement-driven loading, and force applications.  
+- **Contact & Interaction Modeling** – Includes tie constraints, surface-to-surface contact, and frictional interactions.  
+- **Batch Processing & DOE Integration** – Supports automated job submission and parametric studies for design optimization.  
 
-<p>&nbsp;</p>
+## Current Projects
+
+This repository includes several Abaqus Python scripts for automating Finite Element Analysis (FEA) tasks. Current projects focus on composite pin-loaded connections, including a Composite Strap Simulation that models pin-bearing behavior with cohesive zone modeling (CZM) for delamination analysis. The Single Lap Joint (SLJ) Design of Experiments (DOE) script automates parametric studies of pin-loaded composite joints, enabling stress analysis and optimization. Additional scripts support meshing, contact definition, boundary conditions, and batch job execution. More projects will be added over time to expand FEA automation capabilities.
+
+## Installation & Usage
+
+### Prerequisites
+- **Abaqus CAE & Abaqus Python** (Compatible with Abaqus scripting API)
+- **Python 2.7 or 3.x** (Depending on Abaqus version)
+- Basic understanding of Abaqus scripting and FEA
 
 ## 3) [Responsive Flask Web Application with SQL Database](https://github.com/semajrd1/Isabelle-Baptism-Website) — "Isabelle's Baptism Website" — Public Repository
 
