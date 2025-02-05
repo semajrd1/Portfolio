@@ -70,7 +70,7 @@
 This project can be converted into a executable using PyInstaller:
 ```sh
 pip install pyinstaller
-pyinstaller --onefile --windowed --name "AMRC_DFOS_Analyser" main.py
+pyinstaller --onefile --windowed --name "DFOS_Analyser" main.py
 ```
 - The `--onefile` flag bundles everything into a single executable.
 - The `--windowed` flag ensures the GUI runs without a terminal.
