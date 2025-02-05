@@ -71,7 +71,7 @@ pyinstaller --onefile --windowed --name "DFOS_Analyser" main.py
 
 ## 2) [Abaqus Macros Repository](https://github.com/semajrd1/Isabelle-Baptism-Website) — Public Repository
 
-This repository contains a collection of Python scripts (`abaqusMacros.py`) designed to automate Finite Element Analysis (FEA) in Abaqus. These scripts streamline model creation, meshing, material property assignment, boundary condition application, and result extraction for various structural analyses. The repository is continuously updated with new scripts to support different FEA workflows.
+This repository contains a collection of Python scripts (abaqusMacros.py) designed to automate Finite Element Analysis (FEA) in Abaqus. These scripts streamline model creation, meshing, material property assignment, boundary condition application, and result extraction for various structural analyses. The repository is continuously updated with new scripts to support different FEA workflows.
 
 <figure style="text-align: center;">
   <img src="assets/Pin_Strap_FEA.png" alt="Figure Caption" width="300">
