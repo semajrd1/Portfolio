@@ -90,7 +90,7 @@ This repository contains a collection of Python scripts (abaqusMacros.py) design
 
 ### Current Projects
 
-This repository includes several Abaqus Python scripts for automating finite element analysis (FEA) tasks. Current projects focus on composite pin-loaded connections (including a composite strap simulation that models pin-bearing behavior with cohesive zone modeling (CZM) for delamination analysis), an isight workflow automates parametric studies of pin-loaded composite joints (enabling stress analysis and optimisation), and additional scripts support meshing, contact definition, boundary conditions, and batch job execution. More projects will be added over time to expand FEA automation capabilities.
+This repository includes several Abaqus Python scripts for automating finite element analysis (FEA) tasks. Current projects focus on composite pin-loaded connections, including a composite strap simulation that models pin-bearing behavior with cohesive zone modeling (CZM) for delamination analysis), an isight workflow automates parametric studies of pin-loaded composite joints (enabling stress analysis and optimisation), and additional scripts support meshing, contact definition, boundary conditions, and batch job execution. More projects will be added over time to expand FEA automation capabilities.
 
 ### Requirements
 - **Abaqus CAE & Abaqus Python** (Compatible with Abaqus scripting API)
