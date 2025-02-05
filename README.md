@@ -222,5 +222,5 @@ This project is a Flask-based web application designed to manage guest RSVPs and
 # Online Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/james-davidson-698431259/)
-- [Google Scholar](https://scholar.google.com/citations?user=OPJcVwAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/James_Davidson18)
 - [GitHub](https://semajrd1.github.io/Portfolio/)
