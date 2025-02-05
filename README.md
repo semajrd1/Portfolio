@@ -34,9 +34,9 @@
 | **Backend**                      | Python (NumPy, SciPy, Pandas, multiprocessing)    |
 | **Data Handling**                | JSON chunk-based strain data processing           |
 | **Geometry Processing**          | Pandas for structured Excel-based transformations |
-| **Interpolation and Resampling** | SciPy's `interp1d`, NumPy's `polyfit`             |
-| **Performance Optimization**     | `gc`, `psutil`, multiprocessing                   |
-| **Logging and Debugging**        | Python’s `logging` module, `traceback`            |
+| **Interpolation and Resampling** | SciPy's interp1d, NumPy's polyfit                 |
+| **Performance Optimization**     | gc, psutil, multiprocessing                       |
+| **Logging and Debugging**        | Python’s logging module, traceback                |
 | **File Handling**                | OS, shutil, tempfile                              |
 
 <p>&nbsp;</p>
