@@ -69,7 +69,7 @@ pyinstaller --onefile --windowed --name "DFOS_Analyser" main.py
 
 <!-- ========================================================================================= -->
 
-# 2) [Abaqus Macros Repository](https://github.com/semajrd1/Isabelle-Baptism-Website) — Public Repository
+## 2) [Abaqus Macros Repository](https://github.com/semajrd1/Isabelle-Baptism-Website) — Public Repository
 
 This repository contains a collection of Python scripts (`abaqusMacros.py`) designed to automate Finite Element Analysis (FEA) in Abaqus. These scripts streamline model creation, meshing, material property assignment, boundary condition application, and result extraction for various structural analyses. The repository is continuously updated with new scripts to support different FEA workflows.
 
@@ -78,7 +78,7 @@ This repository contains a collection of Python scripts (`abaqusMacros.py`) desi
   <figcaption>Figure 2: Example FEM Generated Via Python Scripting.</figcaption>
 </figure>
 
-## Key Features
+### Key Features
 
 - **Parametric Model Generation** – Automates geometry creation for different structural configurations.  
 - **Advanced Material Modeling** – Supports orthotropic composite materials, isotropic metals, and customizable material definitions.  
@@ -88,13 +88,13 @@ This repository contains a collection of Python scripts (`abaqusMacros.py`) desi
 - **Contact & Interaction Modeling** – Includes tie constraints, surface-to-surface contact, and frictional interactions.  
 - **Batch Processing & DOE Integration** – Supports automated job submission and parametric studies for design optimization.  
 
-## Current Projects
+### Current Projects
 
 This repository includes several Abaqus Python scripts for automating Finite Element Analysis (FEA) tasks. Current projects focus on composite pin-loaded connections, including a Composite Strap Simulation that models pin-bearing behavior with cohesive zone modeling (CZM) for delamination analysis. The Single Lap Joint (SLJ) Design of Experiments (DOE) script automates parametric studies of pin-loaded composite joints, enabling stress analysis and optimization. Additional scripts support meshing, contact definition, boundary conditions, and batch job execution. More projects will be added over time to expand FEA automation capabilities.
 
-## Installation & Usage
+### Installation & Usage
 
-### Prerequisites
+#### Prerequisites
 - **Abaqus CAE & Abaqus Python** (Compatible with Abaqus scripting API)
 - **Python 2.7 or 3.x** (Depending on Abaqus version)
 - Basic understanding of Abaqus scripting and FEA
