@@ -17,7 +17,7 @@
 - **Efficient Data Handling** – Designed for large JSON-based DFOS strain datasets using chunk-based processing.
 - **Strain Data Processing** – Extracts, resamples, and interpolates strain data for enhanced accuracy.
 - **Geometry-Based Analysis** – Reads structured Excel-based DOF geometry and aligns strain data accordingly.
-- **Graphical User Interface (GUI)** – Tkinter-based real-time data visualization and interaction.
+- **Graphical User Interface (GUI)** – Tkinter-based real-time data visualisation and interaction.
 - **Performance Optimisation** – Implements memory management techniques including garbage collection and process monitoring.
 - **Logging & Debugging Support** – Uses structured logging for error tracking and performance analysis.
 
@@ -30,7 +30,7 @@
 | **Data Handling**                | JSON chunk-based strain data processing           |
 | **Geometry Processing**          | Pandas for structured Excel-based transformations |
 | **Interpolation and Resampling** | SciPy's interp1d, NumPy's polyfit                 |
-| **Performance Optimization**     | gc, psutil, multiprocessing                       |
+| **Performance Optimisation**     | gc, psutil, multiprocessing                       |
 | **Logging and Debugging**        | Python’s logging module, traceback                |
 | **File Handling**                | OS, shutil, tempfile                              |
 
@@ -81,16 +81,16 @@ This repository contains a collection of Python scripts (abaqusMacros.py) design
 ### Key Features
 
 - **Parametric Model Generation** – Automates geometry creation for different structural configurations.  
-- **Advanced Material Modeling** – Supports orthotropic composite materials, isotropic metals, and customizable material definitions.  
+- **Advanced Material Modeling** – Supports orthotropic composite materials, isotropic metals, and customisable material definitions.  
 - **Cohesive Zone Modeling (CZM)** – Implements cohesive elements and contact-based approaches for delamination analysis.  
 - **Automated Meshing & Refinement** – Controls mesh density and element types for efficient convergence.  
 - **Boundary Conditions & Loading** – Applies symmetry constraints, displacement-driven loading, and force applications.  
 - **Contact & Interaction Modeling** – Includes tie constraints, surface-to-surface contact, and frictional interactions.  
-- **Batch Processing & DOE Integration** – Supports automated job submission and parametric studies for design optimization.  
+- **Batch Processing & DOE Integration** – Supports automated job submission and parametric studies for design optimisation.  
 
 ### Current Projects
 
-This repository includes several Abaqus Python scripts for automating Finite Element Analysis (FEA) tasks. Current projects focus on composite pin-loaded connections, including a Composite Strap Simulation that models pin-bearing behavior with cohesive zone modeling (CZM) for delamination analysis. The Single Lap Joint (SLJ) Design of Experiments (DOE) script automates parametric studies of pin-loaded composite joints, enabling stress analysis and optimization. Additional scripts support meshing, contact definition, boundary conditions, and batch job execution. More projects will be added over time to expand FEA automation capabilities.
+This repository includes several Abaqus Python scripts for automating Finite Element Analysis (FEA) tasks. Current projects focus on composite pin-loaded connections, including a Composite Strap Simulation that models pin-bearing behavior with cohesive zone modeling (CZM) for delamination analysis. The Single Lap Joint (SLJ) Design of Experiments (DOE) script automates parametric studies of pin-loaded composite joints, enabling stress analysis and optimisation. Additional scripts support meshing, contact definition, boundary conditions, and batch job execution. More projects will be added over time to expand FEA automation capabilities.
 
 ### Requirements
 - **Abaqus CAE & Abaqus Python** (Compatible with Abaqus scripting API)
@@ -119,7 +119,7 @@ This project is a Flask-based web application designed to manage guest RSVPs and
 - **Flask Backend with SQLAlchemy ORM** – Manages data persistence with PostgreSQL, with SQLite fallback for local testing.
 - **Modular and Scalable Architecture** – Implements separation of concerns with distinct routing, template, and static file management.
 - **RESTful API Integration** – Supports data exchange and future expansion into mobile/web applications.
-- **Responsive Frontend** – Uses CSS Grid and SASS for layout management and optimized UI across devices.
+- **Responsive Frontend** – Uses CSS Grid and SASS for layout management and optimised UI across devices.
 
 ### Technology Stack
 - **Frontend:** HTML, CSS (SASS), JavaScript
@@ -150,7 +150,7 @@ This project is a Flask-based web application designed to manage guest RSVPs and
 - **Version Control**: Git, GitHub.
 - **Web Development**: Flask, Jinja2, HTML, CSS, Bootstrap.
 - **Software**: Abaqus, Tosca, Isight, StarCCM+, Adobe Photoshop, Autodesk Fusion 360, Siemens SolidEdge, Blender, Adobe After Effects, Adobe InDesign, Microsoft Office (Excel, Word, PowerPoint), Apple Keynote, Apple Numbers, Logic Pro, ParaView, GIMP, pgAdmin 4, Texmaker, Jupyter Notebook, VS Code, Ansys Workbench, Ansys SpaceClaim, Ansys Mechanical.
-- **Soft Skills**: Presentation, Planning, Organization, Creative Problem-Solving, Teamwork, Active Listening, Adaptability, Analytical Thinking.
+- **Soft Skills**: Presentation, Planning, Organisation, Creative Problem-Solving, Teamwork, Active Listening, Adaptability, Analytical Thinking.
 
 <p>&nbsp;</p>
 
@@ -222,5 +222,5 @@ This project is a Flask-based web application designed to manage guest RSVPs and
 # Online Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/james-davidson-698431259/)
-- [Google Scholar](https://scholar.google.com/citations?user=OzPJcVwAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=OPJcVwAAAAJ&hl=en)
 - [GitHub](https://semajrd1.github.io/Portfolio/)
